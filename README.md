@@ -1,2 +1,2 @@
 # forSCMSecondYears
-This is for git 
+Next Programe sheduled Pending
